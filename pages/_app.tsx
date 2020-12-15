@@ -1,4 +1,5 @@
 import "semantic-ui-css/semantic.min.css";
+import "../styles/site.scss";
 
 import type { AppProps } from "next/app";
 
